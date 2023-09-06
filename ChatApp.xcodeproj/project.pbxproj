@@ -59,6 +59,7 @@
 		0A7F8B112AA796A500FADD1A /* ChatUser.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ChatUser.swift; sourceTree = "<group>"; };
 		0A7F8B142AA81F9300FADD1A /* NewMessageView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NewMessageView.swift; sourceTree = "<group>"; };
 		0A7F8B172AA85C7F00FADD1A /* ChatLogView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ChatLogView.swift; sourceTree = "<group>"; };
+		0A7F8B192AA9078B00FADD1A /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -92,6 +93,7 @@
 		0A56DE7D2AA63DAB0004169E = {
 			isa = PBXGroup;
 			children = (
+				0A7F8B192AA9078B00FADD1A /* README.md */,
 				0A56DE882AA63DAB0004169E /* ChatApp */,
 				0A56DE992AA63DAD0004169E /* ChatAppTests */,
 				0A56DEA32AA63DAD0004169E /* ChatAppUITests */,
